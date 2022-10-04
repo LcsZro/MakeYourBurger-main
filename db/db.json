@@ -77,5 +77,21 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Lucas",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame",
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    }
+  ]
 }
