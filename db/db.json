@@ -80,18 +80,29 @@
   "burgers": [
     {
       "nome": "Lucas",
-      "carne": "Veggie burger",
+      "carne": "Alcatra",
       "pao": "3 Queijos",
       "opcionais": [
         "Bacon",
         "Cheddar",
         "Salame",
-        "Tomate",
-        "Pepino",
-        "Cebola roxa"
+        "Tomate"
       ],
       "status": "Solicitado",
       "id": 1
+    },
+    {
+      "nome": "asdasd",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 2
     }
   ]
 }
